@@ -1,0 +1,46 @@
+GO molecular function complete	Arabidopsis thaliana - REFLIST (27430)	upload_1 (1387)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+oxidosqualene cyclase activity (GO:0031559)	14	6	,71	+	8,48	2,66E-04	2,35E-02
+diacylglycerol O-acyltransferase activity (GO:0004144)	16	6	,81	+	7,42	4,71E-04	3,76E-02
+mannan synthase activity (GO:0051753)	27	8	1,37	+	5,86	2,07E-04	1,94E-02
+beta-1,4-mannosyltransferase activity (GO:0019187)	27	8	1,37	+	5,86	2,07E-04	1,88E-02
+terpene synthase activity (GO:0010333)	32	9	1,62	+	5,56	1,17E-04	1,37E-02
+carbon-oxygen lyase activity, acting on phosphates (GO:0016838)	38	10	1,92	+	5,20	7,92E-05	9,58E-03
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen (GO:0016709)	136	32	6,88	+	4,65	2,24E-11	9,17E-09
+polygalacturonase activity (GO:0004650)	69	15	3,49	+	4,30	1,03E-05	1,78E-03
+monooxygenase activity (GO:0004497)	255	52	12,89	+	4,03	2,23E-15	1,46E-12
+pectinesterase activity (GO:0030599)	91	17	4,60	+	3,69	1,57E-05	2,44E-03
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen (GO:0016705)	420	74	21,24	+	3,48	3,45E-18	1,13E-14
+heme binding (GO:0020037)	372	64	18,81	+	3,40	1,80E-15	1,96E-12
+iron ion binding (GO:0005506)	343	55	17,34	+	3,17	2,10E-12	9,80E-10
+tetrapyrrole binding (GO:0046906)	401	64	20,28	+	3,16	3,94E-14	2,15E-11
+pectinesterase inhibitor activity (GO:0046910)	93	14	4,70	+	2,98	6,20E-04	4,50E-02
+dioxygenase activity (GO:0051213)	133	19	6,73	+	2,83	1,34E-04	1,46E-02
+carbon-oxygen lyase activity (GO:0016835)	163	21	8,24	+	2,55	3,35E-04	2,88E-02
+hydrolase activity, hydrolyzing O-glycosyl compounds (GO:0004553)	394	47	19,92	+	2,36	4,18E-07	8,53E-05
+carbohydrate binding (GO:0030246)	203	24	10,26	+	2,34	4,33E-04	3,63E-02
+hydrolase activity, acting on glycosyl bonds (GO:0016798)	466	53	23,56	+	2,25	3,86E-07	8,40E-05
+oxidoreductase activity (GO:0016491)	1470	152	74,33	+	2,04	1,98E-15	1,62E-12
+lyase activity (GO:0016829)	350	36	17,70	+	2,03	1,65E-04	1,68E-02
+acyltransferase activity (GO:0016746)	363	35	18,36	+	1,91	5,72E-04	4,45E-02
+DNA-binding transcription factor activity (GO:0003700)	1666	135	84,24	+	1,60	2,68E-07	6,25E-05
+transcription regulator activity (GO:0140110)	1822	136	92,13	+	1,48	1,46E-05	2,38E-03
+catalytic activity (GO:0003824)	8348	539	422,12	+	1,28	9,01E-11	3,27E-08
+nucleic acid binding (GO:0003676)	3619	124	183,00	-	,68	1,93E-06	3,71E-04
+purine nucleotide binding (GO:0017076)	812	19	41,06	-	,46	2,01E-04	1,93E-02
+ribonucleotide binding (GO:0032553)	828	19	41,87	-	,45	1,60E-04	1,68E-02
+purine ribonucleotide binding (GO:0032555)	799	18	40,40	-	,45	1,27E-04	1,44E-02
+carbohydrate derivative binding (GO:0097367)	864	19	43,69	-	,43	5,72E-05	7,79E-03
+zinc ion binding (GO:0008270)	619	11	31,30	-	,35	6,57E-05	8,59E-03
+purine ribonucleoside triphosphate binding (GO:0035639)	620	11	31,35	-	,35	6,61E-05	8,31E-03
+mRNA binding (GO:0003729)	1058	15	53,50	-	,28	1,03E-09	3,06E-07
+structural molecule activity (GO:0005198)	482	6	24,37	-	,25	2,46E-05	3,65E-03
+RNA binding (GO:0003723)	1620	19	81,92	-	,23	8,17E-17	1,33E-13
+ribonucleoside triphosphate phosphatase activity (GO:0017111)	475	5	24,02	-	,21	7,53E-06	1,37E-03
+protein-containing complex binding (GO:0044877)	254	2	12,84	-	,16	5,95E-04	4,52E-02
+catalytic activity, acting on a nucleic acid (GO:0140640)	771	6	38,99	-	,15	1,49E-10	4,88E-08
+catalytic activity, acting on DNA (GO:0140097)	257	2	13,00	-	,15	6,15E-04	4,57E-02
+catalytic activity, acting on RNA (GO:0140098)	526	4	26,60	-	,15	1,75E-07	4,41E-05
+cytoskeletal protein binding (GO:0008092)	317	2	16,03	-	,12	3,36E-05	4,78E-03
+microtubule binding (GO:0008017)	172	0	8,70	-	 < 0,01	4,45E-04	3,64E-02
+structural constituent of ribosome (GO:0003735)	330	0	16,69	-	 < 0,01	1,64E-07	4,46E-05
+tubulin binding (GO:0015631)	182	0	9,20	-	 < 0,01	1,91E-04	1,89E-02
